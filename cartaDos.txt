@@ -1,1 +1,7 @@
-Ahora yo trabajo en Git para mantener seguro mi codigo fuente
+Ahora yo trabajo en Git para mantener seguro mi codigo fuente. 
+Besitos
+Soy un pan de Dios
+while(true){
+  usarGorrito();
+  }
+  xdxdxd
